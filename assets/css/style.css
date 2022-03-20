@@ -9,7 +9,7 @@ CSS Indexing
 => RESET CSS
 => HEADER AREA CSS
 => MENU AREA CSS
-=> HERO AREA CSS
+=> AREA CSS
 => ABOUT AREA CSS
 => TILE GALLERY AREA CSS
 => TIMELINE AREA CSS 
@@ -580,7 +580,7 @@ a.slicknav_item.slicknav_row {
 -------- HERO AREA CSS START --------
 ---------------------------------------*/
 .hero-area {
-    background: url(../img/hero-area/slide-bg1.jpg) no-repeat center center / cover;
+    background: url(../img/hero-area/slide-bg11.jpg) no-repeat center center / cover;
     position: relative;
     color: #fff;
     padding: 180px 0 25px;
