@@ -1,3 +1,3 @@
 # SugarBrookFarm
 
-## Aquaponic NFT hydroponic farming 
+## Aquaponic NFT Hydroponic Farming 
