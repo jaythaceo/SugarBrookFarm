@@ -1,4 +1,4 @@
-// Github repo: https://github.com/jansson/jquery.imagezoom
+//Jaythaceo
 
 (function ($) {
 
